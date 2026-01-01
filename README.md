@@ -47,8 +47,6 @@ Tehran, Iran
 
     Compressibility Factor (Z)
 
-    Phase equilibria (VLE, LLE)
-
     PVT properties
 
 ⚙️ Advanced Capabilities
@@ -332,4 +330,5 @@ Changelog
 ⭐ Support This Project
 Last Updated: 2025
 Version: 1.0.0
+
 © 2025 Dr. Mehdi Fattahi. All rights reserved.
